@@ -94,7 +94,7 @@ Over time, decay dominates growth → sequence shrinks
 ---
 
 ## 🔁 Fixed Point Analysis
-
+t
 Solve:
 
 n = (3n+3) / 2^v
@@ -106,7 +106,10 @@ n = 3 / (2^v − 3)
 Checking integer solutions:
 
 - v = 2 → n = 3 ✅  
-- No other positive integer solutions exist  
+- No other positive integer solutions exist
+
+For Multiple step cycles 3^m must be equal to 2^n
+Because of the coprimality it can't exist.
 
 Conclusion:  
 The only fixed point is n = 3
