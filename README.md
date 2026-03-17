@@ -127,6 +127,8 @@ This is an exploratory proof attempt. Some steps are not fully rigorous:
 
 ---
 
+### Note : This is a description of my proof check the pdf file for the full.
+
 ## 🤔 Main Question
 
 Is the following claim valid?
