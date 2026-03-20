@@ -152,7 +152,7 @@ If not, where does the reasoning break?
 
 I am a student exploring number theory and dynamical systems.  
 Any feedback, corrections, or suggestions are highly appreciated.
-
+Note: I have made this proof with the contribution and partnership with Google AI.
 ---
 
 ## ⭐ Note
