@@ -116,17 +116,6 @@ The only fixed point is n = 3
 
 ---
 
-## ⚠️ Known Gaps / Open Questions
-
-This is an exploratory proof attempt. Some steps are not fully rigorous:
-
-1. It is not formally proven that all sequences eventually leave the 4k+1 class  
-2. The binary carry argument is heuristic, not fully formalized  
-3. Multi-step cycles (length > 1) are not completely ruled out  
-4. Bit decay argument is approximate, not strict  
-
----
-
 ### Note : This is a description of my proof check the pdf file for the full.
 
 ## 🤔 Main Question
